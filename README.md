@@ -10,9 +10,9 @@ The plier dispose of 3 different mode of action (automatic, semi-auto and manual
 [![Plier](Media/image/Plier.gif)]
 
 # Repo
-/Control : Arduino code for motor's control //
-/Vision Python code for detection //
-/Misc : demonstration's materials //
+/Control : Arduino code for motor's control 
+/Vision Python code for detection 
+/Misc : demonstration's materials 
 
 
 
