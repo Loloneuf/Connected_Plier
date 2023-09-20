@@ -7,7 +7,7 @@ This project's goal was to centralise diverse works made by several teams of the
 #Functionalities 
 The plier dispose of 3 different mode of action (automatic, semi-auto and manual) in order to control both horizontal movement and opening/closing while detecting a colored object. Indeed, at the end of the project, the plier was able to detect a green ball, position itself in the ball's axis, evaluate the distance and close itself, while controling the pinching power, when the ball is in the grabbing distance.
 
-[![Robot structure](Media/image/Plier.gif)]
+[![Robot structure](Media/Plier.mp4)]
 
 #Repo
 /Control : Arduino code for motor's control
